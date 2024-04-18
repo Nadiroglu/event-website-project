@@ -1,0 +1,66 @@
+.container {
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin: 20px auto;
+  width: 80%;
+  max-width: 800px;
+}
+
+.image_url img {
+  width: 100%;
+  max-height: 300px;
+  object-fit: cover;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.stream_url {
+  margin-bottom: 20px;
+}
+
+.merch-button button {
+  background-color: orange;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.merch-container {
+  margin-top: 20px;
+}
+
+.ticket-container {
+  margin-top: 20px;
+}
+
+.ticket-container h3 {
+  color: green;
+  font-size: 18px;
+}
+
+.button {
+  margin-top: 10px;
+  background-color: orange;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: darkorange;
+}
+
+.description h3 {
+  color: #333;
+}
+
+.organizer h1 {
+  color: #333;
+  font-size: 18px;
+  margin-bottom: 10px;
+}
