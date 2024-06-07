@@ -8,3 +8,6 @@
    FINALLY !!!!
    To summarize, the steps involve setting up dependencies for both the frontend and backend, activating the Python virtual environment,
    configuring environment variables for the backend, seeding the database (if needed), and finally starting the Flask application.
+
+<img width="1722" alt="Screenshot 2024-06-07 at 1 58 52 PM" src="https://github.com/Nadiroglu/event-website-project/assets/150474907/4e268850-995e-4dd6-9bca-89373a8aa6bc">
+
