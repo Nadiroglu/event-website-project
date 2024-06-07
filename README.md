@@ -11,3 +11,21 @@
 
 <img width="1722" alt="Screenshot 2024-06-07 at 1 58 52 PM" src="https://github.com/Nadiroglu/event-website-project/assets/150474907/4e268850-995e-4dd6-9bca-89373a8aa6bc">
 
+# FlatEvent and Event Ticketing Website
+
+This is a web application for managing events and ticketing, built using React for the frontend and Flask for the backend.
+
+## Overview
+
+The application allows users to browse and purchase tickets for various events. It includes features such as user authentication, event creation, ticket purchasing, and more.
+
+## Technologies Used
+
+- React: A JavaScript library for building user interfaces.
+- Flask: A lightweight web framework for Python.
+- SQLite: A relational database management system used for data storage.
+
+## Setup Instructions
+
+1. Clone the repository:
+
